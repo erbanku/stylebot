@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Stylebot",
+  "name": "Stylebot Next",
   "version": "3.1.4",
   "author": "Ankit Ahuja",
   "description": "__MSG_extension_description__",
@@ -34,7 +34,7 @@
       "24": "img/icon24.png",
       "32": "img/icon32.png"
     },
-    "default_title": "Stylebot",
+    "default_title": "Stylebot Next",
     "default_popup": "popup/index.html"
   },
   "icons": {

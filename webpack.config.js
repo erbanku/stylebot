@@ -97,14 +97,16 @@ const config = {
           {
             loader: 'postcss-loader',
             options: {
-              plugins: () => [
-                require('cssnano')({
-                  preset: 'default',
-                }),
-                require('postcss-rem-to-pixel')({
-                  propList: ['*'],
-                }),
-              ],
+              postcssOptions: {
+                plugins: [
+                  require('cssnano')({
+                    preset: 'default',
+                  }),
+                  require('postcss-rem-to-pixel')({
+                    propList: ['*'],
+                  }),
+                ],
+              },
             },
           },
           'sass-loader',
