@@ -1,21 +1,29 @@
-# Stylebot
+# Stylebot Next
 
-![Build](https://github.com/ankit/stylebot/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/erbanku/stylebot/actions/workflows/build.yml/badge.svg)
 [![Kofi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/stylebot)
-[![Chrome Webstore Version](https://img.shields.io/chrome-web-store/v/oiaejidbmkiecgbjeifoejpgmdaleoha)](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
-[![Chrome Users](https://badgen.net/chrome-web-store/users/oiaejidbmkiecgbjeifoejpgmdaleoha)](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
-[![Webstore Rating](https://img.shields.io/chrome-web-store/stars/oiaejidbmkiecgbjeifoejpgmdaleoha)](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
-![License](https://img.shields.io/github/license/ankit/stylebot)
 
-Stylebot is a browser extension that lets you change the appearance of the web instantly.
+Stylebot Next is a modernized browser extension that lets you change the appearance of the web instantly. This is an updated fork with improved Chrome compatibility and modern dependencies.
 
-Available on [Chrome](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha), [Firefox](https://addons.mozilla.org/firefox/addon/stylebot-web/) and [Edge](https://microsoftedge.microsoft.com/addons/detail/stylebot/mjolbpfednnbebfapicajpifliopnnai).
+## Features
 
 - Easy to use: Pick and style elements using UI actions
 - Simple & Quick: Changes are saved instantly
 - Code editor - Write your own CSS
 - Readability Mode - Make articles on any site readable by hiding non-essential page elements like sidebars, footers and ads.
 - Grayscale Mode - Turn on grayscale to reduce strain from websites
+- **Chrome Manifest V3 Support** - Full compatibility with modern Chrome extensions
+- **Updated Dependencies** - Works with latest Node.js versions (Node 17+)
+
+## What's New in Stylebot Next
+
+This is a modernized fork of the original Stylebot with the following improvements:
+
+- ✅ **Webpack 5 Support** - Upgraded from Webpack 4 to Webpack 5 for compatibility with Node.js 17+
+- ✅ **Modern Dependencies** - All dependencies updated to latest compatible versions
+- ✅ **Chrome Compatibility** - Full support for Chrome's latest extension requirements
+- ✅ **Manifest V3** - Already uses Manifest V3 (migrated in May 2024)
+- ✅ **Build Fixes** - Resolves OpenSSL compatibility issues with modern Node.js versions
 
 ## How to contribute
 

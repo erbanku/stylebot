@@ -1,14 +1,14 @@
 {
-  "name": "stylebot",
+  "name": "stylebot-next",
   "version": "3.1.4",
-  "description": "Change the appearance of the web instantly",
-  "homepage": "https://github.com/ankit/stylebot#readme",
+  "description": "Change the appearance of the web instantly - Modern Chrome-compatible version",
+  "homepage": "https://github.com/erbanku/stylebot#readme",
   "bugs": {
-    "url": "https://github.com/ankit/stylebot/issues"
+    "url": "https://github.com/erbanku/stylebot/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankit/stylebot.git"
+    "url": "git+https://github.com/erbanku/stylebot.git"
   },
   "license": "MIT",
   "author": "Ankit Ahuja",
